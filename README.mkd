@@ -1,0 +1,378 @@
+# Comando Básicos
+
+## Variáveis e Tipos Primitivos
+
+- Declaração de variável
+
+    "var" + identificador + = + "tipo primitivo"
+
+    > var numero = 1  
+
+    > var nome = "hugo"
+
+    - Identificadores:
+        
+        - Podem começar com letra, $ ou _
+        - Não podem começar com números.
+        - É possível usar letras ou números.
+        - É possível usar acentos e símbolos.
+        - Não podem conter espaços.
+        - Não podem ser palavras reservadas.
+
+        Dicas:
+        
+        - Maiúsculas e minúsculas fazem diferença.
+        - Escolher nomes coerentes para variáveis.
+        - Evitar ser 'programador alfabeto' ou 'programador contador'
+        
+- Tipos Primitivos
+
+    - number
+        - infinity
+        - NaN (not a number)
+    - string
+    - boolean
+    - null
+    - undefined
+    - object
+        - Array
+    - funtion
+
+    > var n = 200  
+    n  
+    200  
+    typeof n  
+    'number'
+
+    > typeof "6.5"  
+    'string'
+
+    > typeof 6  
+    'number'
+
+    > typeof []  
+    'object'
+
+    > typeof function()[]  
+    'function'
+
+
+## Tratamento de Dados
+
+- Conversão de tipo
+
+> Number(n)
+
+    Converte para número
+
+> Number.parseInt(n)  
+
+    Converte para número inteiro
+
+> Number.parseFloat(n)
+
+    Converte para número flutuante (decimal)
+
+> String(n)  
+ou  
+n.toString()
+
+    Converte para String
+
+_Olhar ex003 para ver exemplo_ 
+- Formatação
+    
+    -Place Holder
+
+> nome = 'Gustavo'  
+idade = 41  
+nota = 5.5  
+`O aluno ${nome} com ${idade} anos tirou a nota ${nota}``    
+'O aluno Gustavo com 41 anos tirou nota 5.5'
+
+_Olhar ex003 para ver exemplo_
+
+> var n1 = 1545.5  
+n1.toFixed(2)  
+'1545.50'
+
+    Para escolher quantas casas decimais aparecem.
+
+> var n1 = 1545.5  
+n1.toFixed(2).replace('.', ',')  
+'1545,50'
+
+    .replace para mudar uma coisa pela outra
+
+
+## Operadores
+
+- Aritméticos
+    - Adição  
+        
+        5 + 2 = 7
+    - Subtração  
+        
+        5 - 2 = 4
+    - Multiplicação  
+        
+        5 * 2 = 10
+    - Divisão Inteira  
+        
+        10 / 2 = 5
+    - Resto da Divisão Inteira  
+        
+        10 % 2 = 0
+    - Potencia  
+        
+        5**2 = 25
+
+    - Ordem de Precedência  
+        
+        De cima pra baixo  
+
+        >()  
+        **  
+        "* / %" (Da esquerda para direita)  
+        "+ -"   (Da esquerda para direita)
+
+- Atribuição
+
+- Relacionais
+
+    - Maior que  
+    
+        > 5 > 2  
+        true
+
+    - Menor que  
+    
+        > 7 < 4  
+        false
+
+    - Maior ou igual a
+
+        > 8 >= 8  
+        true
+
+    - Menor ou igual a
+
+        > 9 <= 7   
+        false
+
+    - Igual
+
+        > 5 == 5  
+        true
+
+    - Diferente
+
+        > 4 != 4  
+        false
+
+    - Ordem de Precedência  
+        
+        De cima pra baixo  
+
+        > ">"  
+        <  
+        ">="  
+        "<="  
+        ==  
+        !=
+
+- Lógicos
+
+    - Negação
+
+        > ! 
+
+    - Conjunção ("E" lógico)
+
+        > &&
+
+    - Disjunção ("Ou" lógico)
+
+        > ||
+        
+    - Ordem de Precedência  
+        
+        De cima pra baixo  
+
+        > !  
+        &&  
+        ||
+
+
+        
+- Ternário
+
+    > teste ? true : false
+
+    ex
+    > média >= 7.9 ? "Aprovado" : "Reprovado"
+
+
+## Scripts
+
+> window.prompt('Qual é o seu nome')
+
+    Abrirá um pop up perguntando algo ao entrar na página.  
+    Retorna como string.
+
+> window.alert('É um grande prazer em te conhecer, ' + nome)
+
+    Abrirá um pop up
+
+_Olhar ex003 para ver exemplo_
+
+
+> document.write(``Seu nome tem ${nome.length} letras`)
+
+    Escreve no html
+
+> s.length  
+    
+    Mostra quantos caracteres a string tem
+
+> s.toUpperCase()  
+
+    Passa tudo para MAIÚSCULA
+
+> s.toLowerCase()
+
+    Passa tudo para minúscula
+
+_Olhar ex004 para ver exemplo_
+
+
+# DOCUMENT OBJECT MODEL (DOM)
+
+Vertente web do javascript 
+
+- Árvore DOM
+
+    Window  
+        
+        - location
+        - document
+            - html
+                - head
+                    - meta
+                    - title
+                - body
+                    - h1
+                    - p
+                    - p
+                        - strong
+                    - div
+        - history
+
+- Como Navegar Entre os Elementos?
+
+    - por MARCA
+    - por ID
+    - por NOME
+    - por CLASSE
+    - por SELETOR
+    ****
+    - por MARCA
+
+        > getElementsByTagName('')[0]
+
+    - por ID
+
+        > getElementByID()
+
+    - por NOME
+
+        > getElementsByName()[]
+    
+    - por CLASSE
+
+        > getElementsByClassName()[]
+    
+    - por SELETOR
+
+        > querySelector()
+        
+        > querySelectorAll()
+
+## Eventos DOM
+
+_ex006.html_
+
+    É tudo aquilo que pode acontencer com qualquer elemento.
+
+- mouseenter 
+- mouseout
+- mousemove
+- mousedown
+- mouseup
+- click
+
+
+## Funções
+
+    É um conjunto de códigos que serão executadas quando o evento ocorrer.
+
+> function ação(parâmetros) { }
+
+    <div id="area" onclick="clicar()" onmouseover="entrar()" onmouseout="sair()">
+        Interaja...
+
+    </div>
+
+    <script>
+        var a = window.document.getElementById('area')
+        function clicar() {
+            a.innerText = 'Clicou!'
+            a.style.background = 'red'
+        }
+
+        function entrar (){
+            a.innerText = 'Entrou!'
+        }
+
+        function sair () {
+            a.innerText = 'Saiu!'
+            a.style.background = 'green'
+
+        }
+
+    </script>  
+
+ > 
+    
+    <body>
+
+    <div id="area">
+        Interaja...
+
+    </div>
+
+    <script>
+        var a = window.document.getElementById('area')
+
+        a.addEventListener('click', clicar)
+        a.addEventListener('mouseover', entrar)
+        a.addEventListener('mouseout', sair)
+
+        function clicar() {
+            a.innerText = 'Clicou!'
+            a.style.background = 'red'
+        }
+
+        function entrar (){
+            a.innerText = 'Entrou!'
+        }
+
+        function sair () {
+            a.innerText = 'Saiu!'
+            a.style.background = 'green'
+
+        }
+
+    </script>
+    
+</body>
