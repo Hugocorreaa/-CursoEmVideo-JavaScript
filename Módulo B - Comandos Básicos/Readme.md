@@ -26,11 +26,11 @@ Exemplo:
 | infinity | "maçã"  | true  |   |   |   |   |
 | NaN  |   | false  |   |   |  array |   |
 
-Exemplo:
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/192926444@N07/51158981082/in/dateposted-public/" title="Captura de tela 2021-05-05 125809"><img src="https://live.staticflickr.com/65535/51158981082_59764188e4_z.jpg" width="640" height="177" alt="Captura de tela 2021-05-05 125809"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Exemplo:    
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/192926444@N07/51158981082/in/dateposted-public/" title="Captura de tela 2021-05-05 125809"><img src="https://live.staticflickr.com/65535/51158981082_59764188e4_z.jpg" width="640" height="177" alt="Captura de tela 2021-05-05 125809"></a><
 
-Exemplo:
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/192926444@N07/51158990222/in/dateposted-public/" title="ex002"><img src="https://live.staticflickr.com/65535/51158990222_4afa49c6cb_z.jpg" width="640" height="146" alt="ex002"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Exemplo:    
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/192926444@N07/51158990222/in/dateposted-public/" title="ex002"><img src="https://live.staticflickr.com/65535/51158990222_4afa49c6cb_z.jpg" width="640" height="146" alt="ex002"></a><
 
 ## - Tratamento de Dados
 - Conversão de Tipo
@@ -43,14 +43,14 @@ Exemplo:
 | Number.parseFloat(n)  |   | Converte **n** para número flutuante (decimal)  |
 
 *Para escolher quantas **casas decimais** aparecem:*
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/192926444@N07/51159678236/in/dateposted-public/" title="ex003"><img src="https://live.staticflickr.com/65535/51159678236_a63001a373_z.jpg" width="640" height="146" alt="ex003"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/192926444@N07/51159678236/in/dateposted-public/" title="ex003"><img src="https://live.staticflickr.com/65535/51159678236_a63001a373_z.jpg" width="640" height="146" alt="ex003"></a><
 
 *Converter para **string**:*
 
-|   	|   	|   	
-|---	|---	|---	
-|  String(n)  	|   	   
-|  n.toString() 	|   	 
+|              |      |
+| :----------- | ---- |
+| String(n)    |      |
+| n.toString() |      |
 
 ## - Operadores
 
