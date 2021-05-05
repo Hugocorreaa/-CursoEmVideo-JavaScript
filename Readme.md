@@ -11,6 +11,28 @@ Videos: :tv:
 Links úteis: :link:
 [JavaScript - Developer Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+## ÍNDICE
+
+### Módulo B: Comandos Básicos
+- Variáveis e Tipos Primitivos
+- Tratamento de Dados
+- Operadores
+
+### Módulo C: Document Object Model (DOM)
+- Conceito
+- Eventos DOM
+
+### Módulo D: Condições
+- if
+- else
+- else if
+- switch
+
+### Módulo E: Repetições 
+- Repetições com teste no início (while)
+- Respetiões com teste no final (do while)
+- Repetições com Controle (for)
+
 ## COMANDO BÁSICOS
 -  Variáveis e Tipos Primitivos
 	- Declaração de variável
