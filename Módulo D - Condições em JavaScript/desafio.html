@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AEROPORTO</title>
+</head>
+<body>
+
+    <h1>ALFÂNDEGA</h1>
+
+    Escreva o país de nascimento: <input type="text" id="local">
+    <input type="button" value="verificar" onclick="verificador()">
+
+    <div id="res">
+
+    </div>
+
+
+
+    <script>
+
+        function verificador(){
+            var loc = window.document.querySelector('input#local')
+            var res = window.document.querySelector('div#res')
+
+            var txt = String(loc.value)
+
+            if (txt != 'Brasil'){
+                res.innerHTML += `<p>Você é de ${txt}. Estrangeiro!</p>`
+            } else {
+                res.innerHTML += `<p>Você é do ${txt}. Brasileiro!</p>`
+            }
+        }
+
+    </script>
+
+</body>
+</html>
