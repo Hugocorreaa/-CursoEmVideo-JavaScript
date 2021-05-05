@@ -8,6 +8,7 @@ while (condição){
 }
 ```
 - **Ordem:**
+
 1º Teste
 2º Executa
 3º Looping
@@ -33,6 +34,7 @@ do{
 }while(condição)
 ```
 - **Ordem:**
+
 1º Executa
 2º Testa
 3º Looping
@@ -57,6 +59,7 @@ for(inicio; teste; incr){
 }
 ```
 - **Ordem:**
+
 1º Inicialização 
 2º Teste Lógico
 4º Execução do bloco
