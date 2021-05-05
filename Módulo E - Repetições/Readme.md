@@ -9,9 +9,9 @@ while (condição){
 ```
 - **Ordem:**
 
-1º Teste
-2º Executa
-3º Looping
+1º Teste    
+2º Executa    
+3º Looping    
 
 
 
@@ -35,9 +35,9 @@ do{
 ```
 - **Ordem:**
 
-1º Executa
-2º Testa
-3º Looping
+1º Executa    
+2º Testa    
+3º Looping    
 
 Exemplo:
 "Escreva 'Tudo bem?', enquanto a condição for verdadeira "
@@ -60,11 +60,11 @@ for(inicio; teste; incr){
 ```
 - **Ordem:**
 
-1º Inicialização 
-2º Teste Lógico
-4º Execução do bloco
-3º Incremento
-5º Loop
+1º Inicialização     
+2º Teste Lógico    
+4º Execução do bloco    
+3º Incremento    
+5º Loop    
 
 Exemplo:
 ```javascript
