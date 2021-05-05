@@ -42,7 +42,7 @@ Exemplo:
 | Number.parseInt(n)    |   |  Converte **n** para número inteiro|
 | Number.parseFloat(n)  |   | Converte **n** para número flutuante (decimal)  |
 
-*Para escolher quantas **casas decimais** aparecem:*
+*Para escolher quantas **casas decimais** aparecem:*    
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/192926444@N07/51159678236/in/dateposted-public/" title="ex003"><img src="https://live.staticflickr.com/65535/51159678236_a63001a373_z.jpg" width="640" height="146" alt="ex003"></a><
 
 *Converter para **string**:*
