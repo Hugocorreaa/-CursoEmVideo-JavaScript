@@ -11,7 +11,7 @@ Videos: :tv:
 Links úteis: :link:
 [JavaScript - Developer Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-# ÍNDICE
+# ÍNDICE :bookmark_tabs:
 
 ### Módulo B: [Comandos Básicos](https://github.com/Hugocorreaa/JavaScript/blob/main/M%C3%B3dulo%20B%20-%20Comandos%20B%C3%A1sicos/Readme.md) 
 - Variáveis e Tipos Primitivos
