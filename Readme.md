@@ -1,4 +1,4 @@
-﻿# GUIA
+
 
 Olá! Esse repositório foi criado para guardar alguns projetos em javascript e pode ser usado como guia de consulta também. 
 
@@ -11,7 +11,7 @@ Videos: :tv:
 Links úteis: :link:
 [JavaScript - Developer Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## ÍNDICE
+# ÍNDICE
 
 ### Módulo B: Comandos Básicos
 - Variáveis e Tipos Primitivos
