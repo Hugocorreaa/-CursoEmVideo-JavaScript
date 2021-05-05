@@ -28,7 +28,7 @@ Links úteis: :link:
 - else if
 - switch
 
-### Módulo E: [Repetições](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+### Módulo E: [Repetições](https://github.com/Hugocorreaa/JavaScript/blob/main/M%C3%B3dulo%20E%20-%20Repeti%C3%A7%C3%B5es/Readme.md) 
 - Repetições com teste no início (while)
 - Respetiões com teste no final (do while)
 - Repetições com Controle (for)
