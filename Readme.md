@@ -1,6 +1,6 @@
 ﻿# GUIA
 
-Olá! Esse repositório foi criado para guardar alguns projetos de javascript e pode ser usado como guia de consulta também. 
+Olá! Esse repositório foi criado para guardar alguns projetos em javascript e pode ser usado como guia de consulta também. 
 
 Livros: :books: 
 [Eloquent JavaScript (Inglês) ](https://eloquentjavascript.net/)
