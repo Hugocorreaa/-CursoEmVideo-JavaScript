@@ -13,7 +13,7 @@ Links úteis: :link:
 
 # ÍNDICE
 
-### Módulo B: Comandos Básicos
+### Módulo B: [Comandos Básicos](https://github.com/Hugocorreaa/JavaScript/blob/main/M%C3%B3dulo%20B%20-%20Comandos%20B%C3%A1sicos/Readme.md) 
 - Variáveis e Tipos Primitivos
 - Tratamento de Dados
 - Operadores
