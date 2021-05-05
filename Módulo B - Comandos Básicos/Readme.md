@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# COMANDOS BÁSICOS
+# COMANDOS BÁSICOS
 
 ## - Declaração de Variáveis
 
