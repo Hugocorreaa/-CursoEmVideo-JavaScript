@@ -32,3 +32,9 @@ Links úteis: :link:
 - Repetições com teste no início (while)
 - Respetiões com teste no final (do while)
 - Repetições com Controle (for)
+
+### Módulo F: Arrays e Funções
+
+- [Arrays](https://github.com/Hugocorreaa/JavaScript/blob/main/M%C3%B3dulo%20F%20-%20Vari%C3%A1veis%20Compostas%20e%20Fun%C3%A7%C3%B5es/Vari%C3%A1veis%20Compostas/Readme.md)
+- [Funções](https://github.com/Hugocorreaa/JavaScript/blob/main/M%C3%B3dulo%20F%20-%20Vari%C3%A1veis%20Compostas%20e%20Fun%C3%A7%C3%B5es/Fun%C3%A7%C3%B5es/readme.md)
+
