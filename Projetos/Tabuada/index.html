@@ -5,33 +5,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Contador</title>
+    <title>Modelo</title>
 </head>
 <body>
     <!-- ======= Header ======== -->
     <header>
-        <h1>Contador</h1>
+        <h1>Tabuada</h1>
 
     </header>
 
     <!-- ======= Section ======== -->
     <section>
-        <!-- ====== Dados ======= -->
-        <div id="dados">
-            <p >Início: <input type="number" id="txti" ><br></p>
-            
-            <p>Fim: <input type="number" id="txtfim"><br></p>
 
-            <p>Passo: <input type="number" id="txtpasso"></p>
-            
-            <p><input type="button" value="Contar" onclick="contar()"></p>
-
+        <div>
+            <p>Número <input type="number" id="txtnumero"> 
+                <input type="button" value="Gerar Tabuada" onclick="tabuada()" ></p>
         </div>
 
-        <!-- ======== Resposta ========= -->
         <div id="res">
-            Preparando a contagem...
-
+            Digite um número acima
         </div>
 
     </section>
