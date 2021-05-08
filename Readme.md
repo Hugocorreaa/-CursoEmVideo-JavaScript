@@ -18,7 +18,7 @@ Links úteis: :link:
 - Tratamento de Dados
 - Operadores
 
-### Módulo C: Document Object Model (DOM)
+### Módulo C: Document Object Model (DOM) 
 - Conceito
 - Eventos DOM
 
@@ -33,8 +33,24 @@ Links úteis: :link:
 - Respetiões com teste no final (do while)
 - Repetições com Controle (for)
 
-### Módulo F: Arrays e Funções
+### Módulo F: Arrays e Funções 
 
 - [Arrays](https://github.com/Hugocorreaa/JavaScript/blob/main/M%C3%B3dulo%20F%20-%20Vari%C3%A1veis%20Compostas%20e%20Fun%C3%A7%C3%B5es/Vari%C3%A1veis%20Compostas/Readme.md)
 - [Funções](https://github.com/Hugocorreaa/JavaScript/blob/main/M%C3%B3dulo%20F%20-%20Vari%C3%A1veis%20Compostas%20e%20Fun%C3%A7%C3%B5es/Fun%C3%A7%C3%B5es/readme.md)
+
+### Próximos Passos: 📚
+
+- [ ] Arrow Functions
+- [ ] Call Backs
+- [ ] Funções Anônimas
+- [ ] IIFE
+- [ ] JavaScript Funcional
+- [ ] Objetos
+- [ ] Modularização
+- [ ] Expressões Regulares (RegEx)
+- [ ] JSON
+- [ ] AJAX
+- [ ] NodeJS
+
+
 
