@@ -40,12 +40,12 @@ Links úteis: :link:
 
 ### Próximos Passos: 📚
 
-- [ ] Arrow Functions
+- [ ] Objetos
 - [ ] Call Backs
 - [ ] Funções Anônimas
 - [ ] IIFE
 - [ ] JavaScript Funcional
-- [ ] Objetos
+- [ ] Arrow Functions
 - [ ] Modularização
 - [ ] Expressões Regulares (RegEx)
 - [ ] JSON
