@@ -3,6 +3,18 @@
 ## - Declaração de Variáveis
 
     var + identificador = tipo primitivo
+
+
+var:
+
+|                var                |       let        |                            const                             |
+| :-------------------------------: | :--------------: | :----------------------------------------------------------: |
+| Tem escopo global e, também local | Tem escopo local | Tem escopo global e, também não muda seu valor. É um constante |
+
+
+
+​	
+
 Exemplo:
 
     var numero = 1 

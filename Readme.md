@@ -8,6 +8,8 @@ Livros: :books:
 Videos: :tv:
 [JavaScript - Curso em Vídeo](https://youtu.be/1-w1RfGIov4?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
+[Rocketseat - O guia estelar de JavaScript](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script)
+
 Links úteis: :link:
 [JavaScript - Developer Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
