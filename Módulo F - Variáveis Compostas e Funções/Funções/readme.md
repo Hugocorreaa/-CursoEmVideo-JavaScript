@@ -17,7 +17,7 @@ Ou seja, funções são **ações** executadas assim que são **chamadas** ou em
 
 ```javascript
 function ação(parâmetro){
-    
+
     return resultado
     
 }
@@ -26,6 +26,19 @@ ação(5)
 ```
 
 
+
+ex.
+
+```javascript
+const sum = function (number1, number2){
+    console.log(number1 + number2)
+}
+
+sum(2, 3) // 2 e 3 são argumentos = arguments
+//
+RESPOSTA DO CONSOLE
+5
+```
 
 Exemplo: 
 
