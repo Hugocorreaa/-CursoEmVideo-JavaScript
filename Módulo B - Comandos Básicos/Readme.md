@@ -74,6 +74,6 @@ Exemplo:
 
 - Relacionais
 
-  | Igual | Maior que | Menor que | Diferente | Maior ou igual que | Menor ou igual que |
-  | :---: | :-------: | :-------: | :-------: | :----------------: | :----------------: |
-  |  ==   |     >     |     <     |    !=     |         >=         |         <=         |
+| Igual | Maior que | Menor que | Diferente | Maior ou igual que | Menor ou igual que |
+| :---: | :-------: | :-------: | :-------: | :----------------: | :----------------: |
+|  ==   |     >     |     <     |    !=     |         >=         |         <=         |
