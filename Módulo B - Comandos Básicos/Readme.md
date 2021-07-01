@@ -71,3 +71,9 @@ Exemplo:
 | Adição | Subtração | Multiplicação | Divisão Inteira |  Resto | Potência |
 |:------:|:---------:|:-------------:|:---------------:|:------:|:--------:|
 |  5 + 2 |   5 - 2   |     5 * 2     |      10 / 2     | 10 % 2 |  5  ** 2 |
+
+- Relacionais
+
+  | Igual | Maior que | Menor que | Diferente | Maior ou igual que | Menor ou igual que |
+  | :---: | :-------: | :-------: | :-------: | :----------------: | :----------------: |
+  |  ==   |     >     |     <     |    !=     |         >=         |         <=         |
