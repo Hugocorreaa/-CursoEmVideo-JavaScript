@@ -77,3 +77,14 @@ Exemplo:
 | Igual | Maior que | Menor que | Diferente | Maior ou igual que | Menor ou igual que |
 | :---: | :-------: | :-------: | :-------: | :----------------: | :----------------: |
 |  ==   |     >     |     <     |    !=     |         >=         |         <=         |
+
+- Lógicos
+
+  Os **operadores lógicos** permitem criar **condições complexas** a partir de condições simples.
+
+   - Facilitam o raciocínio
+   - Tornam o código mais breve
+
+| Conjunção (E) | Disjunção (Ou) | Negação (não) |
+| :-----------: | :------------: | :-----------: |
+|      &&       |      \|\|      |       !       |
