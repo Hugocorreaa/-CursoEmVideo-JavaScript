@@ -24,7 +24,7 @@ Links úteis: :link:
 - Conceito
 - Eventos DOM
 
-### Módulo D: Condições
+### Módulo D: [Condicionais](https://github.com/Hugocorreaa/JavaScript/blob/main/Módulo%20D%20-%20Condições%20em%20JavaScript/readm.md) 
 - if
 - else
 - else if
