@@ -27,7 +27,7 @@ let num = [5, 8, 4]
 
 |     Comando      |                            Função                            | Exemplo |
 | :--------------: | :----------------------------------------------------------: | :-----: |
-|   `num[3] = 6`   | Cria mais um elemento na chave "3" e coloca o valor "6" dentro. |         |
+|   `num[3] = 6`   | Cria mais um elemento na índice "3" e coloca o valor "6" dentro. |         |
 |  `num.push(7)`   |  Cria mais um elemento adicionando após o ultimo elemento.   |         |
 |   `num.length`   |            Mostra quantos elementos tem no vetor.            |         |
 |   `num.sort()`   |     Pega todos os elementos e coloca em ordem crescente.     |         |
