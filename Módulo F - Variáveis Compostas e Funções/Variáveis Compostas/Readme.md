@@ -58,9 +58,10 @@ Exemplo:
 ```javascript
 let valores = [8, 1, 7, 4, 2, 9]
 
-for (let pos = 0; pos < num.length; pos++){
-    console.log(`A posição ${pos} tem o valor valores[pos]`)
+for (let pos = 0; pos < valores.length; pos++){
+    console.log(`A posição ${pos} tem o valor ${valores[pos]}`)
 }
+
 
 A posição 0 tem o valor 8
 A posição 1 tem o valor 2
