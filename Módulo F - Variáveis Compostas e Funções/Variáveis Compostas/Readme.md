@@ -33,7 +33,7 @@ let num = [5, 8, 4]
 |   `num.sort()`   |     Pega todos os elementos e coloca em ordem crescente.     |         |
 |     `num[x]`     |          Mostra o valor na posição x, começa no 0.           |         |
 | `num.indexOf(x)` |              Pesquisa o valor x dentro do vetor.             |         |
-| vetorC = vetorC.concat(vetorA, vetorB)| Concatena o vetor A e B no vetor C.     |         |
+| vetorC.concat(vetorA, vetorB)| Concatena o vetor A e B no vetor C.              |vetorC = vetorC.concat(vetorA, vetorB)         |
 
 ### Percurso de exibição
 
